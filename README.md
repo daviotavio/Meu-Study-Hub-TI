@@ -1,19 +1,19 @@
-# 📚 Meu Study Hub — TI
+# Meu Study Hub — TI
 
 > Portfólio acadêmico e profissional de **Davi Otávio** — estudante de Engenharia de Software no CEUB.
 > Este repositório reúne, de forma organizada, as atividades, projetos e materiais que produzo ao longo da graduação.
 
 ---
 
-## 🎯 Sobre este repositório
+## Sobre este repositório
 
-O **Study Hub** é mais do que um trabalho de disciplina — é a base estrutural do meu portfólio profissional. A proposta é documentar minha evolução ao longo do curso de forma padronizada e acessível, reunindo em um só lugar tudo o que aprendo e produzo.
+O **Study Hub** é, além de um trabalho de disciplina, a base estrutural do meu portfólio profissional. A proposta é documentar minha evolução ao longo do curso de forma padronizada e acessível, reunindo em um só lugar tudo o que aprendo e produzo.
 
-Trabalho com dados e Business Intelligence, e escolhi Engenharia de Software para aprofundar minha formação técnica em arquitetura e desenvolvimento de sistemas. Este espaço reflete essa trajetória.
+Trabalho com dados e Business Intelligence, e escolhi Engenharia de Software para aprofundar minha formação técnica. Este repositório refletirá essa trajetória.
 
 ---
 
-## 🗂️ Estrutura de pastas
+## Estrutura de pastas
 
 ```
 Meu-Study-Hub-TI/
@@ -34,7 +34,7 @@ Meu-Study-Hub-TI/
 │
 └── 03_Certificacoes/   # Certificados
     ├── Linguagens_de_Programacao/
-    ├── Ferramentas_e_Frameworks/
+    └── Ferramentas_e_Frameworks/
 ```
 
 ### Lógica da organização
@@ -50,7 +50,7 @@ Cada disciplina segue o mesmo padrão: uma subpasta para **entregas** (trabalho 
 
 ---
 
-## 📐 Padrão de nomenclatura
+## Padrão de nomenclatura
 
 - Sem acentos e sem espaços — uso `_` (underscore) para separar palavras
 - Pastas de nível principal numeradas (`00_`, `01_`…) para manter a ordem lógica
@@ -58,14 +58,14 @@ Cada disciplina segue o mesmo padrão: uma subpasta para **entregas** (trabalho 
 
 ---
 
-## 👤 Contato
+## Contato
 
 - **E-mail:** daviotavioribeiro@gmail.com
 - **LinkedIn:** [linkedin.com/in/davi-otavio](https://www.linkedin.com/in/davi-otavio/)
 
 ---
 
-## 🚧 Status
+## Status
 
 Repositório em construção e atualização contínua ao longo da graduação.
 
